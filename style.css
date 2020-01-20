@@ -1,1 +1,36 @@
-/* Add your CSS code here */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 740px;
+    margin-bottom: 10px;
+  }
+  div {
+    text-align: justify;
+  }
+  p {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 1px;
+    margin-bottom: 10px;
+  }
+  ul {
+    margin-top: 10px;
+   /* margin-left: 2px;*/
+    margin-right: 1px;
+    margin-bottom: 10px;
+  }
